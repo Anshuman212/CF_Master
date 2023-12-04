@@ -14,9 +14,12 @@ It was a problem that I personally faced and it took a lot longer time due to a 
 4) Create a cpp file inside it using `touch temp.cpp`
 5) Now you need to add the path of your original code file where you code and this temp.cpp in a `.env` file
 6) Open two terminals -
- One for running the command ```python3 copyFile.py``` it'll keep track of your code editor and register any changes being made and would make the same changes to the temp.cpp
 ![Screenshot from 2023-12-05 03-11-33](https://github.com/Anshuman212/CF_Master/assets/75901017/03157aca-dcfe-4ddf-8d76-5f67f4de57e4)
+
+ One for running the command ```python3 copyFile.py``` it'll keep track of your code editor and register any changes being made and would make the same changes to the temp.cpp
+
 Other terminal to run `python3 submit.py` to submit your code on CF
+
 ![Screenshot from 2023-12-05 03-12-28](https://github.com/Anshuman212/CF_Master/assets/75901017/99ebe635-3764-410f-a41b-70811982d02a)
 
 
